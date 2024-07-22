@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Introducing the Perfect Wedding Invitation App
+# Introducing Pragma an Digital Event Invitation
 
 Planning your dream wedding just got easier with our innovative Wedding Invitation App. Whether you're envisioning a classic affair or a modern celebration, our app offers a seamless experience to create and send beautiful invitations that reflect your unique style and love story.
 
